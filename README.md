@@ -51,7 +51,7 @@ Desarrollar un sistema de inventario inteligente que permita:
 
 ---
 
-# 📂 Estructura del Proyecto
+# Estructura del Proyecto
 
 inventario-inteligente/
 │
@@ -72,7 +72,7 @@ inventario-inteligente/
 
 ---
 
-# ⚙️ Requisitos previos
+# Requisitos previos
 
 Antes de ejecutar el proyecto necesitas tener instalado:
 
