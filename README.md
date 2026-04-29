@@ -27,7 +27,7 @@ Desarrollar un sistema de inventario inteligente que permita:
 
 ---
 
-# 🛠 Tecnologías utilizadas
+# Tecnologías utilizadas
 
 ## Backend
 - Flask
